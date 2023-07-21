@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons IO
+Implementation-Version: 2.6
+Built-By: britter
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons IO
+Implementation-Vendor-Id: commons-io
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_144
+Specification-Version: 2.6
+Implementation-URL: http://commons.apache.org/proper/commons-io/
+Implementation-Vendor: The Apache Software Foundation
+
